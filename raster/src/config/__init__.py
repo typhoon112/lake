@@ -1,0 +1,15 @@
+"""配置模块"""
+from .settings import (
+    PATHS,
+    PROJECT_ROOT,
+    FILL_VALUES,
+    FILL_VALUE_FLOAT,
+    FILL_VALUE_UINT8,
+    FILL_VALUE_UINT32,
+    QUALITY_CONFIG,
+    OUTPUT_CONFIG,
+    CRS_WGS84,
+    CRS_ALBERS_ASIA,
+    EQUAL_AREA_CRS,
+    TARGET_CRS,
+)
